@@ -15,8 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/ArmoredIgor/Detection-Lab/blob/main/README.md">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ArmoredIgor/Detection-Lab/blob/main/README.md">Detection Lab</a>|
 | Security Automation                             | SOC  Lab|
 | Incident Response Planning and Execution      | SOC  Lab|
 | Case Management                               | SOC  Lab|
