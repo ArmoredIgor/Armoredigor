@@ -48,5 +48,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/ArmoredIgor/Detection-Lab/blob/main/README.md">Detection Lab</a>
 - SOC Automation Project
