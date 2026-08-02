@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation                             | <a href="https://github.com/ArmoredIgor/Detection-Lab/blob/main/README.md">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC  Lab|
 | Case Management                               | SOC  Lab|
-| Scripting and Automation for Threat Mitigation | SOC  Lab|
+
 
 ## Tools
 
