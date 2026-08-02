@@ -18,8 +18,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/ArmoredIgor/Detection-Lab/blob/main/README.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ArmoredIgor/Detection-Lab/blob/main/README.md">Detection Lab</a>|
 | Security Automation                             | <a href="https://github.com/ArmoredIgor/Detection-Lab/blob/main/README.md">Detection Lab</a>|
-| Incident Response Planning and Execution      | SOC  Lab|
-| Case Management                               | SOC  Lab|
+| Incident Response Planning and Execution      | <a href="https://github.com/ArmoredIgor/SOC-Lab/blob/main/README.md">SOC Lab</a>|
+| Case Management                               |<a href="https://github.com/ArmoredIgor/SOC-Lab/blob/main/README.md">SOC Lab</a>|
 
 
 ## Tools
@@ -49,4 +49,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/ArmoredIgor/Detection-Lab/blob/main/README.md">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/ArmoredIgor/SOC-Lab/blob/main/README.md">SOC Lab</a>
